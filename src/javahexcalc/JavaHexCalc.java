@@ -3,6 +3,11 @@ package javahexcalc;
 import java.util.Scanner;
 
 public class JavaHexCalc {
+    /**
+     * @author Andrey Tynyanyi
+     * @version 1.0
+     */
+
     private static Scanner hex = new Scanner(System.in); //Для ввода Hex
     private static String hexArr[] = new String[2]; // массив куда помещаться будут два шестнадцатеричных числа
 
