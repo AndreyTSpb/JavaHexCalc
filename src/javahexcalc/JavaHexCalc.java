@@ -52,7 +52,7 @@ public class JavaHexCalc {
     /**
      * Служебная функция
      * Просмотр, что есть в массиве
-     * @param hexArr
+     * @param hexArr String[]
      */
     private static void viewArr(String hexArr[]){
         for (int i=0; i<hexArr.length; i++){
